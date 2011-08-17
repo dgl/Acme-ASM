@@ -1,0 +1,5 @@
+.*.sw[op]
+blib
+*.gz
+Makefile
+pm_to_blib
